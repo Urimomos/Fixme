@@ -1,0 +1,15 @@
+{
+    "Name": "Nombre",
+    "Email": "Correo Electrónico",
+    "Phone Number": "Número de Teléfono",
+    "Password": "Contraseña",
+    "Confirm Password": "Confirmar Contraseña",
+    "Already registered?": "¿Ya estás registrado?",
+    "Register": "Registrarse",
+    "Log in": "Iniciar sesión",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.":"¿Olvidaste tu contraseña? No hay problema. Solo indícanos tu correo electrónico y te enviaremos un enlace para restablecer tu contraseña y podrás elegir una nueva.",
+    "Forgot your password?":"¿Olvidaste tu contraseña?",
+    "Email Password Reset Link":"Recuperar contraseña",
+    "Remember me":"Recuérdame"
+
+}
