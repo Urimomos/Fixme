@@ -36,7 +36,6 @@
             <ul>
                 <li><a href="/" class="{{ request()->is('/') ? 'active' : '' }}">Inicio</a></li>
                 <li><a href="{{ route('sobre-nosotros') }}">Sobre Nosotros</a></li>
-                <li><a href="#">Promociones</a></li>
             </ul>
         </nav>
 
@@ -112,7 +111,6 @@
     <div class="pt-2 pb-3 space-y-1 px-2">
         <a href="/" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:bg-gray-50">Inicio</a>
         <a href="{{ route('sobre-nosotros') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:bg-gray-50">Sobre Nosotros</a>
-        <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:bg-gray-50">Promociones</a>
     </div>
 
     {{-- Borde Separador --}}

@@ -32,7 +32,6 @@
                 <h3 class="text-white text-lg font-semibold">Navegación</h3>
                 <ul class="mt-4 space-y-2">
                     <li><a href="/" class="hover:text-white transition-colors">Inicio</a></li>
-                    <li><a href="#" class="hover:text-white transition-colors">Promociones</a></li>
                     <li><a href="{{ route('sobre-nosotros') }}" ...>Sobre Nosotros</a></li>
                 </ul>
             </div>
